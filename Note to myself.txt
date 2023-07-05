@@ -1,0 +1,8 @@
+--If you've finally downloaded this project once again, I believe you've developed some courage for Unity Development again.
+
+Here are the things you can work on:
+1. Use characters instead of spheres and capsules. Just don't be lazy to work on animations.
+2. Improve the usage of Photon.
+3. Create the options and settings menu as well, create a system to customize the input settings.
+4. Work on particle system.
+5. Rest of the flaws, you'll discover on your own as you work on this project.
